@@ -1,0 +1,14 @@
+.daySquare {
+-fx-border-color: #000;
+    -fx-background-color: #fff;
+}
+
+.darkmode label{
+    -fx-background-color: #202124;
+    -fx-text-fill: #fff;
+}
+
+#darkmode {
+    -fx-background-color: #202124;
+    -fx-text-fill: #fff;
+}
